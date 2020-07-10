@@ -1,1 +1,1 @@
-# balena-run-script
+# balena-bot-server
